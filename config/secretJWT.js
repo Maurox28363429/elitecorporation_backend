@@ -1,0 +1,2 @@
+const secretJWT ="678e4f2758eed0eea56bfd611e85430b4bbc5b06a4277e457f3026843575f35e"
+module.exports = secretJWT;
